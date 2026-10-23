@@ -2,9 +2,28 @@
 
 **Arafat Rahman** · Application ID: `DT-2026-JTNGO`
 
-Task 1 builds a reproducible Iris classification workflow with Logistic Regression and a Decision Tree. It covers data checks, exploratory plots, training-only scaling, held-out evaluation and error analysis.
+Completed projects cover Iris classification and California housing regression. Each includes an executed notebook, data checks, leakage-free preprocessing, saved evaluation results and diagnostic figures.
 
 [Open the executed notebook](Task_01_Classification/iris_classification.ipynb) · [Official task requirements](https://www.datheon.in/training/catalog/machine-learning-and-data-science-internship)
+
+## Projects
+
+| Project | Status | Open |
+|:--|:--|:--|
+| Iris Classification | Completed | [Notebook](Task_01_Classification/iris_classification.ipynb) |
+| Housing Price Prediction | Completed | [Overview and results](Task_02_Housing_Price_Prediction/README.md) · [Notebook](Task_02_Housing_Price_Prediction/housing_price_prediction.ipynb) |
+| Customer Churn Classification | Pending | [Folder](Task_03_Customer_Churn_Classification/) |
+| Sentiment Classification | Pending | [Folder](Task_04_Sentiment_Classification/) |
+
+## Task 2 results
+
+| Model | Test RMSE (USD) | Test MAE (USD) | Test R² | CV RMSE (USD) | Alpha |
+|:--|--:|--:|--:|--:|--:|
+| OLS | 68,845.00 | 49,458.67 | 0.6383 | 67,675.28 | — |
+| Ridge | 68,897.95 | 49,469.16 | 0.6378 | 67,663.06 | 10 |
+| Lasso | 68,937.05 | 49,426.84 | 0.6373 | 67,660.87 | 100 |
+
+Training CV selected Lasso; OLS had a slightly lower test RMSE. Both conclusions are reported without test-driven tuning. See the [Housing Price Prediction documentation](Task_02_Housing_Price_Prediction/README.md) for methodology, plots, limitations and execution instructions.
 
 ## Task 1 results
 
@@ -59,7 +78,10 @@ Machine_Learning_Data_Science_Internship/
 │       ├── model_comparison.png
 │       └── decision_boundaries.png
 ├── Task_02_Housing_Price_Prediction/
-│   └── README.md                 # Pending
+│   ├── housing_price_prediction.ipynb
+│   ├── README.md
+│   ├── results/
+│   └── figures/
 ├── Task_03_Customer_Churn_Classification/
 │   └── README.md                 # Pending
 ├── Task_04_Sentiment_Classification/
@@ -124,12 +146,12 @@ Both classifiers misclassified source row 77 (versicolor → virginica) and row 
 - Boundary plots use two features and must not be read as visualizations of the four-feature evaluation models.
 - The upstream CSV is branch-based and could change; the saved notebook records the exact source fingerprint.
 
-## Verification and progress
+## Task 1 verification and overall progress
 
 The notebook completed **two sequential runs in separate fresh kernels**, including execution from both supported working directories. All 19 code cells passed. The eight generated artifacts were byte-identical across runs. Metrics were independently checked against confusion-matrix counts, and all six saved figures were visually inspected. The full notebook HTML was exported, but a browser preview was unavailable in the execution environment.
 
 - [x] Task 1 — Iris classification: implemented, executed and verified
-- [ ] [Task 2 — Housing Price Prediction](Task_02_Housing_Price_Prediction/) — Pending
+- [x] [Task 2 — Housing Price Prediction](Task_02_Housing_Price_Prediction/) — Implemented, executed and verified
 - [ ] [Task 3 — Customer Churn Classification](Task_03_Customer_Churn_Classification/) — Pending
 - [ ] [Task 4 — Sentiment Classification](Task_04_Sentiment_Classification/) — Pending
 
