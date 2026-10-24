@@ -32,6 +32,16 @@ Both models exceed the assignment's **0.80 ROC-AUC** target on this split. XGBoo
 
 Random Forest produces **240 false positives and 97 false negatives** (337 errors). XGBoost produces **271 false positives and 80 false negatives** (351 errors): it identifies 17 additional churners but flags 31 additional non-churners. Error exports use source row indices rather than customer identifiers.
 
+
+### Kaggle execution
+
+The public Kaggle run completed successfully and generated all six figures and eight result files. Its downloaded predictions were independently checked against its metrics; the dataset fingerprint and held-out row indices match the local run. The managed Kaggle runtime yields slightly different fitted results, so the local table above is not presented as the Kaggle result. Cross-platform equivalence is not assumed.
+
+| Model | Kaggle ROC-AUC | Accuracy | Precision | Recall | F1 |
+|:--|--:|--:|--:|--:|--:|
+| Random Forest | 0.8364 | 0.7779 | 0.5650 | 0.7086 | 0.6287 |
+| XGBoost | 0.8460 | 0.7544 | 0.5248 | 0.7914 | 0.6311 |
+
 ## Figures
 
 | Figure | Purpose |
