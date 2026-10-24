@@ -1,0 +1,3 @@
+Model,True negatives,False positives,False negatives,True positives,Errors
+Random Forest,795,240,97,277,337
+XGBoost,764,271,80,294,351

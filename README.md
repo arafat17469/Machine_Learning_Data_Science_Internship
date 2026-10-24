@@ -2,7 +2,7 @@
 
 **Arafat Rahman** · Application ID: `DT-2026-JTNGO`
 
-Completed projects cover Iris classification and California housing regression. Each includes an executed notebook, data checks, leakage-free preprocessing, saved evaluation results and diagnostic figures.
+Completed projects cover Iris classification, California housing regression and customer churn classification. Each includes an executed notebook, data checks, leakage-free preprocessing, saved evaluation results and diagnostic figures.
 
 [Open the executed notebook](Task_01_Classification/iris_classification.ipynb) · [Official task requirements](https://www.datheon.in/training/catalog/machine-learning-and-data-science-internship)
 
@@ -12,8 +12,17 @@ Completed projects cover Iris classification and California housing regression. 
 |:--|:--|:--|
 | Iris Classification | Completed | [Notebook](Task_01_Classification/iris_classification.ipynb) |
 | Housing Price Prediction | Completed | [Overview and results](Task_02_Housing_Price_Prediction/README.md) · [Notebook](Task_02_Housing_Price_Prediction/housing_price_prediction.ipynb) |
-| Customer Churn Classification | Pending | [Folder](Task_03_Customer_Churn_Classification/) |
+| Customer Churn Classification | Completed | [Overview and results](Task_03_Customer_Churn_Classification/README.md) · [Notebook](Task_03_Customer_Churn_Classification/customer_churn_classification.ipynb) |
 | Sentiment Classification | Pending | [Folder](Task_04_Sentiment_Classification/) |
+
+## Customer churn results
+
+| Model | ROC-AUC | Average precision | Accuracy | Precision | Recall | F1 |
+|:--|--:|--:|--:|--:|--:|--:|
+| Random Forest | 0.8350 | 0.6357 | 0.7608 | 0.5358 | 0.7406 | 0.6218 |
+| XGBoost | 0.8463 | 0.6669 | 0.7509 | 0.5204 | 0.7861 | 0.6262 |
+
+Five-fold training CV selected XGBoost. Both models exceed 0.80 held-out ROC-AUC; XGBoost catches more churners with more false positives. See the [project documentation](Task_03_Customer_Churn_Classification/README.md) for evaluation, limitations and execution.
 
 ## Task 2 results
 
@@ -83,7 +92,10 @@ Machine_Learning_Data_Science_Internship/
 │   ├── results/
 │   └── figures/
 ├── Task_03_Customer_Churn_Classification/
-│   └── README.md                 # Pending
+│   ├── customer_churn_classification.ipynb
+│   ├── README.md
+│   ├── results/
+│   └── figures/
 ├── Task_04_Sentiment_Classification/
 │   └── README.md                 # Pending
 ├── README.md
@@ -152,7 +164,7 @@ The notebook completed **two sequential runs in separate fresh kernels**, includ
 
 - [x] Task 1 — Iris classification: implemented, executed and verified
 - [x] [Task 2 — Housing Price Prediction](Task_02_Housing_Price_Prediction/) — Implemented, executed and verified
-- [ ] [Task 3 — Customer Churn Classification](Task_03_Customer_Churn_Classification/) — Pending
+- [x] [Task 3 — Customer Churn Classification](Task_03_Customer_Churn_Classification/) — Implemented, executed and verified
 - [ ] [Task 4 — Sentiment Classification](Task_04_Sentiment_Classification/) — Pending
 
 Task completion here records implementation and local verification only. Datheon review and approval are not claimed; no certificate has been issued through this project, and the final internship form has not been submitted.

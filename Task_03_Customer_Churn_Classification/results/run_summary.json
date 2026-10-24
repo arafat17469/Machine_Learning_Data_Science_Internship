@@ -1,0 +1,15 @@
+{
+  "selected_by_cv": "XGBoost",
+  "highest_test_auc": "XGBoost",
+  "train_rows": 5634,
+  "test_rows": 1409,
+  "churn_rate": 0.2653698707936959,
+  "missing_total_charges": 11,
+  "shared_predictor_profiles": 12,
+  "source_sha256": "16320c9c1ec72448db59aa0a26a0b95401046bef5d02fd3aeb906448e3055e91",
+  "threshold": 0.5,
+  "auc_target_met": {
+    "Random Forest": true,
+    "XGBoost": true
+  }
+}

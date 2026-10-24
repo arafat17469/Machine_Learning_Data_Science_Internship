@@ -1,0 +1,352 @@
+source_row,tenure,MonthlyCharges,TotalCharges,Contract,InternetService,true_churn,predicted_churn,churn_score,error_type,confidence_in_wrong_label
+4513,72,92.45,6440.25,Two year,DSL,1,0,0.010616975,False negative,0.98938304
+4386,55,57.55,3046.4,Two year,DSL,1,0,0.035895765,False negative,0.96410424
+3790,2,19.3,28.3,One year,No,1,0,0.04100743,False negative,0.9589926
+4039,7,94.1,701.3,Month-to-month,Fiber optic,0,1,0.9417982,False positive,0.9417982
+2244,34,64.4,2088.75,One year,DSL,1,0,0.059082665,False negative,0.9409173
+5086,45,20.4,930.45,One year,No,1,0,0.059487354,False negative,0.94051266
+3346,2,84.05,186.05,Month-to-month,Fiber optic,0,1,0.94047886,False positive,0.94047886
+3536,1,79.15,79.15,Month-to-month,Fiber optic,0,1,0.93684924,False positive,0.93684924
+5905,1,85.0,85.0,Month-to-month,Fiber optic,0,1,0.935748,False positive,0.935748
+2280,8,100.15,908.55,Month-to-month,Fiber optic,0,1,0.93287915,False positive,0.93287915
+2519,2,91.45,171.45,Month-to-month,Fiber optic,0,1,0.93132055,False positive,0.93132055
+935,4,83.25,308.05,Month-to-month,Fiber optic,0,1,0.93065274,False positive,0.93065274
+658,2,19.85,35.9,One year,No,1,0,0.06964389,False negative,0.9303561
+2927,1,69.9,69.9,Month-to-month,Fiber optic,0,1,0.9301474,False positive,0.9301474
+2036,1,74.3,74.3,Month-to-month,Fiber optic,0,1,0.9269514,False positive,0.9269514
+2350,5,84.0,424.75,Month-to-month,Fiber optic,0,1,0.9266485,False positive,0.9266485
+85,9,99.3,918.75,Month-to-month,Fiber optic,0,1,0.9213249,False positive,0.9213249
+6574,9,90.1,816.8,Month-to-month,Fiber optic,0,1,0.9199757,False positive,0.9199757
+6680,48,95.5,4627.85,Two year,Fiber optic,1,0,0.08438411,False negative,0.9156159
+580,12,19.0,233.55,Month-to-month,No,1,0,0.088659905,False negative,0.9113401
+2894,48,60.35,2896.4,One year,DSL,1,0,0.09295451,False negative,0.9070455
+2493,6,90.75,512.25,Month-to-month,Fiber optic,0,1,0.9013551,False positive,0.9013551
+352,7,89.15,574.35,Month-to-month,Fiber optic,0,1,0.8999151,False positive,0.8999151
+3885,3,74.95,212.4,Month-to-month,Fiber optic,0,1,0.8971619,False positive,0.8971619
+5019,14,95.6,1273.3,Month-to-month,Fiber optic,0,1,0.89040965,False positive,0.89040965
+4078,22,67.5,1544.05,One year,DSL,1,0,0.11125189,False negative,0.8887481
+5627,7,74.85,485.25,Month-to-month,Fiber optic,0,1,0.88413507,False positive,0.88413507
+3834,57,70.1,3913.3,One year,DSL,1,0,0.12085197,False negative,0.879148
+3822,6,94.05,518.75,Month-to-month,Fiber optic,0,1,0.8790249,False positive,0.8790249
+5839,7,75.4,533.05,Month-to-month,Fiber optic,0,1,0.8784349,False positive,0.8784349
+5250,12,94.55,1173.55,Month-to-month,Fiber optic,0,1,0.87304986,False positive,0.87304986
+3510,8,75.25,576.7,Month-to-month,Fiber optic,0,1,0.8694096,False positive,0.8694096
+966,7,19.25,112.3,Month-to-month,No,1,0,0.13236675,False negative,0.8676332
+1829,8,74.85,572.45,Month-to-month,Fiber optic,0,1,0.86683255,False positive,0.86683255
+5057,9,75.85,724.65,Month-to-month,Fiber optic,0,1,0.86658055,False positive,0.86658055
+5110,8,73.5,632.2,Month-to-month,Fiber optic,0,1,0.86605036,False positive,0.86605036
+3799,31,65.25,1994.3,Month-to-month,DSL,1,0,0.13420351,False negative,0.8657965
+954,22,95.1,2162.6,Month-to-month,Fiber optic,0,1,0.86296266,False positive,0.86296266
+6945,70,98.3,6859.5,Two year,Fiber optic,1,0,0.13984855,False negative,0.86015147
+6284,23,93.5,2341.55,Month-to-month,Fiber optic,0,1,0.86011857,False positive,0.86011857
+6362,2,74.9,136.05,Month-to-month,Fiber optic,0,1,0.8590612,False positive,0.8590612
+3202,1,55.25,55.25,Month-to-month,DSL,0,1,0.85209155,False positive,0.85209155
+4165,6,87.95,522.35,Month-to-month,Fiber optic,0,1,0.8519185,False positive,0.8519185
+1568,11,111.4,1183.05,Month-to-month,Fiber optic,0,1,0.85127544,False positive,0.85127544
+1206,3,70.15,194.2,Month-to-month,Fiber optic,0,1,0.8507252,False positive,0.8507252
+4648,2,70.3,144.0,Month-to-month,Fiber optic,0,1,0.8493266,False positive,0.8493266
+4171,9,18.95,185.6,Month-to-month,No,1,0,0.15258248,False negative,0.84741753
+1081,46,98.85,4564.9,Month-to-month,Fiber optic,0,1,0.8402646,False positive,0.8402646
+1446,1,50.05,50.05,Month-to-month,DSL,0,1,0.8401385,False positive,0.8401385
+1105,9,79.75,769.1,Month-to-month,Fiber optic,0,1,0.8397958,False positive,0.8397958
+5809,6,85.95,514.6,Month-to-month,Fiber optic,0,1,0.83955073,False positive,0.83955073
+6314,6,73.85,401.3,Month-to-month,Fiber optic,0,1,0.83855903,False positive,0.83855903
+3371,11,19.25,180.3,Month-to-month,No,1,0,0.16195822,False negative,0.8380418
+2296,1,45.2,45.2,Month-to-month,DSL,0,1,0.83681935,False positive,0.83681935
+2424,57,112.95,6465.0,Two year,Fiber optic,1,0,0.1704646,False negative,0.82953537
+5652,1,48.6,48.6,Month-to-month,DSL,0,1,0.8293836,False positive,0.8293836
+5748,21,99.85,1992.55,Month-to-month,Fiber optic,0,1,0.8201759,False positive,0.8201759
+3803,61,94.1,5638.3,Two year,Fiber optic,1,0,0.18165654,False negative,0.81834346
+4473,26,98.1,2510.7,Month-to-month,Fiber optic,0,1,0.81755114,False positive,0.81755114
+4253,22,88.75,1885.15,Month-to-month,Fiber optic,0,1,0.813543,False positive,0.813543
+2447,7,74.9,490.55,Month-to-month,Fiber optic,0,1,0.8124713,False positive,0.8124713
+3554,7,71.05,472.65,Month-to-month,Fiber optic,0,1,0.81081325,False positive,0.81081325
+302,4,90.4,356.65,Month-to-month,Fiber optic,0,1,0.80933666,False positive,0.80933666
+922,16,75.4,1189.4,Month-to-month,Fiber optic,0,1,0.80838,False positive,0.80838
+6345,2,56.55,118.25,Month-to-month,DSL,0,1,0.80779123,False positive,0.80779123
+3978,3,90.7,237.65,Month-to-month,Fiber optic,0,1,0.8069766,False positive,0.8069766
+6889,3,89.85,244.45,Month-to-month,Fiber optic,0,1,0.8052742,False positive,0.8052742
+2136,15,91.0,1430.05,Month-to-month,Fiber optic,0,1,0.8040882,False positive,0.8040882
+3306,3,80.0,241.3,Month-to-month,Fiber optic,0,1,0.80408615,False positive,0.80408615
+5581,68,113.15,7856.0,Two year,Fiber optic,1,0,0.1976899,False negative,0.8023101
+1630,38,102.6,4009.2,Month-to-month,Fiber optic,0,1,0.8015946,False positive,0.8015946
+3065,1,45.8,45.8,Month-to-month,DSL,0,1,0.7988966,False positive,0.7988966
+3844,35,85.95,3110.1,One year,DSL,1,0,0.20153765,False negative,0.79846233
+2150,21,84.1,1737.45,Month-to-month,Fiber optic,0,1,0.7981988,False positive,0.7981988
+6445,4,90.65,367.95,Month-to-month,Fiber optic,0,1,0.79434764,False positive,0.79434764
+4478,3,54.2,140.4,Month-to-month,DSL,0,1,0.79035324,False positive,0.79035324
+3798,42,100.3,4222.95,Month-to-month,Fiber optic,0,1,0.78968906,False positive,0.78968906
+5533,21,95.4,2025.1,Month-to-month,Fiber optic,0,1,0.78949344,False positive,0.78949344
+517,5,70.05,302.6,Month-to-month,Fiber optic,0,1,0.78844243,False positive,0.78844243
+3694,67,108.75,7156.2,Two year,Fiber optic,1,0,0.21317264,False negative,0.7868273
+5716,2,55.3,108.65,Month-to-month,DSL,0,1,0.786,False positive,0.786
+4223,3,70.3,220.4,Month-to-month,Fiber optic,0,1,0.7856574,False positive,0.7856574
+3647,8,69.7,572.85,Month-to-month,Fiber optic,0,1,0.7847533,False positive,0.7847533
+5675,3,69.6,207.4,Month-to-month,Fiber optic,0,1,0.78373575,False positive,0.78373575
+4402,39,48.95,1880.85,Month-to-month,DSL,1,0,0.21635933,False negative,0.7836407
+6308,2,70.35,139.25,Month-to-month,Fiber optic,0,1,0.7794275,False positive,0.7794275
+4653,30,51.2,1561.5,Month-to-month,DSL,1,0,0.22451255,False negative,0.7754874
+747,3,75.05,202.9,Month-to-month,Fiber optic,0,1,0.7742802,False positive,0.7742802
+14,25,105.5,2686.05,Month-to-month,Fiber optic,0,1,0.7670052,False positive,0.7670052
+1245,23,90.45,2117.25,Month-to-month,Fiber optic,0,1,0.7661777,False positive,0.7661777
+4139,24,80.5,2088.45,Month-to-month,Fiber optic,0,1,0.76356786,False positive,0.76356786
+2902,6,74.1,450.9,Month-to-month,Fiber optic,0,1,0.7604471,False positive,0.7604471
+2580,30,101.3,2974.5,Month-to-month,Fiber optic,0,1,0.76035684,False positive,0.76035684
+4815,38,70.45,2597.6,One year,Fiber optic,1,0,0.23972031,False negative,0.76027966
+6777,3,29.9,92.25,Month-to-month,DSL,0,1,0.7602086,False positive,0.7602086
+6727,13,45.3,528.45,Month-to-month,DSL,0,1,0.758122,False positive,0.758122
+4264,46,104.45,4863.85,Month-to-month,Fiber optic,0,1,0.75573957,False positive,0.75573957
+6324,9,75.85,647.5,Month-to-month,Fiber optic,0,1,0.754557,False positive,0.754557
+5270,40,55.25,2139.2,Month-to-month,DSL,1,0,0.24565093,False negative,0.75434905
+2880,12,79.95,1043.4,Month-to-month,Fiber optic,0,1,0.7542381,False positive,0.7542381
+3154,4,72.75,317.75,Month-to-month,Fiber optic,0,1,0.7532093,False positive,0.7532093
+4266,62,102.0,6529.25,One year,Fiber optic,1,0,0.246858,False negative,0.753142
+2702,1,44.0,44.0,Month-to-month,DSL,0,1,0.7514609,False positive,0.7514609
+6244,54,99.05,5295.7,Month-to-month,Fiber optic,0,1,0.7503827,False positive,0.7503827
+376,1,25.35,25.35,Month-to-month,DSL,0,1,0.75022656,False positive,0.75022656
+6557,33,100.0,3320.6,Month-to-month,Fiber optic,0,1,0.7492426,False positive,0.7492426
+5044,22,104.6,2180.55,Month-to-month,Fiber optic,0,1,0.74826795,False positive,0.74826795
+2968,3,90.4,268.45,Month-to-month,Fiber optic,0,1,0.74417055,False positive,0.74417055
+4782,5,78.75,426.35,Month-to-month,Fiber optic,0,1,0.7423196,False positive,0.7423196
+4579,31,81.15,2640.55,Month-to-month,Fiber optic,0,1,0.74178964,False positive,0.74178964
+2488,31,55.25,1715.65,Month-to-month,DSL,1,0,0.25883636,False negative,0.7411636
+6015,3,74.55,233.65,Month-to-month,Fiber optic,0,1,0.7401398,False positive,0.7401398
+5700,29,79.3,2414.55,Month-to-month,Fiber optic,0,1,0.73946226,False positive,0.73946226
+4140,63,99.9,6137.0,One year,Fiber optic,1,0,0.260701,False negative,0.739299
+4327,7,69.9,497.3,Month-to-month,Fiber optic,0,1,0.7382238,False positive,0.7382238
+4527,39,80.45,3201.55,Two year,Fiber optic,1,0,0.261823,False negative,0.738177
+4986,12,79.55,958.25,Month-to-month,Fiber optic,0,1,0.7372105,False positive,0.7372105
+3721,2,20.65,38.7,Month-to-month,No,1,0,0.26569822,False negative,0.7343018
+6133,2,24.9,49.7,Month-to-month,DSL,0,1,0.7331718,False positive,0.7331718
+6804,5,90.35,434.5,Month-to-month,Fiber optic,0,1,0.73284394,False positive,0.73284394
+685,1,49.9,49.9,Month-to-month,DSL,0,1,0.7310332,False positive,0.7310332
+1477,61,106.0,6547.7,One year,Fiber optic,1,0,0.27059567,False negative,0.72940433
+5444,45,107.75,4882.8,Month-to-month,Fiber optic,0,1,0.72907746,False positive,0.72907746
+6979,1,24.2,24.2,Month-to-month,DSL,0,1,0.72874033,False positive,0.72874033
+4382,4,48.75,179.85,Month-to-month,DSL,0,1,0.7272407,False positive,0.7272407
+1992,17,83.55,1329.15,Month-to-month,Fiber optic,0,1,0.72722846,False positive,0.72722846
+2860,67,101.4,6841.05,Month-to-month,Fiber optic,0,1,0.72667795,False positive,0.72667795
+6356,10,98.9,1064.95,One year,Fiber optic,0,1,0.72663665,False positive,0.72663665
+2319,11,90.6,1020.2,Month-to-month,Fiber optic,0,1,0.7263531,False positive,0.7263531
+3505,9,24.95,190.25,Month-to-month,DSL,0,1,0.7258555,False positive,0.7258555
+5119,5,75.65,399.45,Month-to-month,Fiber optic,0,1,0.7255,False positive,0.7255
+7016,1,49.95,49.95,Month-to-month,DSL,0,1,0.7247077,False positive,0.7247077
+3922,67,94.65,6079.0,Month-to-month,Fiber optic,0,1,0.7233334,False positive,0.7233334
+1381,2,70.7,129.2,Month-to-month,Fiber optic,0,1,0.72316515,False positive,0.72316515
+203,13,78.3,1033.95,Month-to-month,Fiber optic,0,1,0.72292405,False positive,0.72292405
+1045,43,99.3,4209.95,Month-to-month,Fiber optic,0,1,0.7219418,False positive,0.7219418
+4161,2,49.95,107.1,Month-to-month,DSL,0,1,0.7198249,False positive,0.7198249
+4705,6,78.95,494.95,Month-to-month,Fiber optic,0,1,0.71895885,False positive,0.71895885
+267,19,105.0,2007.25,Month-to-month,Fiber optic,0,1,0.7187205,False positive,0.7187205
+6761,1,19.9,19.9,Month-to-month,No,0,1,0.71850044,False positive,0.71850044
+1114,32,98.85,3145.9,Month-to-month,Fiber optic,0,1,0.71787053,False positive,0.71787053
+4144,21,103.85,2215.0,Month-to-month,Fiber optic,0,1,0.7176358,False positive,0.7176358
+5631,3,25.0,78.25,Month-to-month,DSL,0,1,0.7167536,False positive,0.7167536
+4443,1,44.75,44.75,Month-to-month,DSL,0,1,0.71356577,False positive,0.71356577
+1260,2,50.3,92.75,Month-to-month,DSL,0,1,0.7129972,False positive,0.7129972
+3762,15,49.0,749.25,Month-to-month,DSL,0,1,0.7115035,False positive,0.7115035
+3672,54,70.15,3715.65,One year,DSL,1,0,0.28895882,False negative,0.7110412
+3293,5,64.0,370.25,Month-to-month,DSL,0,1,0.71082634,False positive,0.71082634
+2709,41,53.95,2215.4,Month-to-month,DSL,0,1,0.71075577,False positive,0.71075577
+6363,9,74.85,708.2,Month-to-month,Fiber optic,0,1,0.7105909,False positive,0.7105909
+6481,5,69.95,320.4,Month-to-month,Fiber optic,0,1,0.70944947,False positive,0.70944947
+3579,40,81.2,3292.3,Month-to-month,Fiber optic,0,1,0.70940053,False positive,0.70940053
+4461,29,94.2,2607.6,Month-to-month,Fiber optic,0,1,0.7091837,False positive,0.7091837
+4079,10,78.15,765.15,Month-to-month,Fiber optic,0,1,0.70688385,False positive,0.70688385
+3568,21,99.15,1956.4,Month-to-month,Fiber optic,0,1,0.70468104,False positive,0.70468104
+2172,1,43.95,43.95,Month-to-month,DSL,0,1,0.7040312,False positive,0.7040312
+1166,5,53.8,283.95,Month-to-month,DSL,0,1,0.7034989,False positive,0.7034989
+2118,22,80.15,1790.65,Month-to-month,Fiber optic,0,1,0.7012114,False positive,0.7012114
+1175,13,80.0,1029.35,Month-to-month,Fiber optic,0,1,0.6998589,False positive,0.6998589
+3376,1,19.4,19.4,Month-to-month,No,0,1,0.69811946,False positive,0.69811946
+6879,21,86.05,1818.9,Month-to-month,Fiber optic,0,1,0.6979242,False positive,0.6979242
+595,12,61.65,713.75,Month-to-month,DSL,1,0,0.30262724,False negative,0.6973728
+6786,11,48.55,501.0,Month-to-month,DSL,1,0,0.30390844,False negative,0.69609153
+959,32,86.1,2723.75,Month-to-month,Fiber optic,0,1,0.6959014,False positive,0.6959014
+4784,1,19.55,19.55,Month-to-month,No,0,1,0.6958695,False positive,0.6958695
+3928,18,95.95,1745.5,Month-to-month,Fiber optic,0,1,0.6949282,False positive,0.6949282
+156,22,84.15,1821.95,Month-to-month,Fiber optic,0,1,0.6948957,False positive,0.6948957
+2222,38,101.15,3956.7,Month-to-month,Fiber optic,0,1,0.6935046,False positive,0.6935046
+1774,1,48.75,48.75,Month-to-month,DSL,0,1,0.69333786,False positive,0.69333786
+3197,22,69.5,1498.2,One year,DSL,1,0,0.3081394,False negative,0.69186056
+2868,26,85.75,2146.5,Month-to-month,Fiber optic,0,1,0.68929124,False positive,0.68929124
+701,35,83.15,2848.45,Month-to-month,Fiber optic,0,1,0.6891923,False positive,0.6891923
+4296,35,72.25,2568.55,Month-to-month,DSL,1,0,0.3134872,False negative,0.6865128
+3305,38,94.75,3653.0,Month-to-month,Fiber optic,0,1,0.68382084,False positive,0.68382084
+195,20,96.55,1901.65,Month-to-month,Fiber optic,0,1,0.683526,False positive,0.683526
+2043,16,69.65,1043.3,Month-to-month,Fiber optic,0,1,0.6829766,False positive,0.6829766
+5871,24,55.65,1400.55,Month-to-month,DSL,1,0,0.31702858,False negative,0.6829714
+2219,20,89.95,1648.45,Month-to-month,Fiber optic,0,1,0.6823006,False positive,0.6823006
+4733,12,84.6,959.9,Month-to-month,Fiber optic,0,1,0.6815681,False positive,0.6815681
+3960,3,57.55,161.45,Month-to-month,DSL,0,1,0.6801453,False positive,0.6801453
+654,8,19.65,164.3,Month-to-month,No,1,0,0.3227187,False negative,0.67728126
+3064,21,68.65,1493.2,Month-to-month,Fiber optic,0,1,0.6770115,False positive,0.6770115
+6628,7,94.05,633.45,One year,Fiber optic,0,1,0.67254126,False positive,0.67254126
+5415,18,50.3,913.3,Month-to-month,DSL,0,1,0.6706652,False positive,0.6706652
+6081,1,49.8,49.8,Month-to-month,DSL,0,1,0.67023677,False positive,0.67023677
+6157,3,19.85,64.55,Month-to-month,No,1,0,0.33225822,False negative,0.6677418
+6230,1,20.05,20.05,Month-to-month,No,0,1,0.6673381,False positive,0.6673381
+5311,6,19.5,146.3,Month-to-month,No,1,0,0.33307016,False negative,0.66692984
+2699,34,96.35,3190.25,Month-to-month,Fiber optic,0,1,0.66557586,False positive,0.66557586
+2005,49,100.45,4941.8,One year,Fiber optic,1,0,0.33456337,False negative,0.6654366
+6,22,89.1,1949.4,Month-to-month,Fiber optic,0,1,0.6651913,False positive,0.6651913
+4355,6,50.35,314.55,Month-to-month,DSL,0,1,0.66404825,False positive,0.66404825
+2789,24,88.95,2072.75,Month-to-month,Fiber optic,0,1,0.6625275,False positive,0.6625275
+6185,50,103.95,5231.3,One year,Fiber optic,0,1,0.662315,False positive,0.662315
+868,59,85.55,5084.65,One year,Fiber optic,1,0,0.33959672,False negative,0.66040325
+4817,1,19.9,19.9,Month-to-month,No,0,1,0.66038114,False positive,0.66038114
+7011,4,60.4,272.15,Month-to-month,DSL,1,0,0.33990836,False negative,0.66009164
+3899,52,109.1,5647.95,Month-to-month,Fiber optic,0,1,0.65964556,False positive,0.65964556
+1838,54,90.05,4931.8,Month-to-month,Fiber optic,0,1,0.65663296,False positive,0.65663296
+3824,4,55.3,238.5,Month-to-month,DSL,0,1,0.65174574,False positive,0.65174574
+4554,20,108.2,2203.7,Month-to-month,Fiber optic,0,1,0.6510035,False positive,0.6510035
+4867,34,100.85,3527.3,Month-to-month,Fiber optic,0,1,0.6508356,False positive,0.6508356
+2079,70,106.05,7554.05,Month-to-month,Fiber optic,0,1,0.6507883,False positive,0.6507883
+4692,16,100.7,1522.7,Month-to-month,Fiber optic,0,1,0.65071374,False positive,0.65071374
+4572,60,106.15,6411.25,Month-to-month,Fiber optic,0,1,0.65025276,False positive,0.65025276
+3534,46,105.2,4822.85,One year,Fiber optic,1,0,0.35096946,False negative,0.64903057
+4151,57,55.0,3094.05,Month-to-month,DSL,0,1,0.64856285,False positive,0.64856285
+1037,13,49.15,649.4,Month-to-month,DSL,0,1,0.64836353,False positive,0.64836353
+6455,59,44.3,2666.75,Month-to-month,DSL,0,1,0.648141,False positive,0.648141
+4070,55,74.0,4052.4,Month-to-month,Fiber optic,0,1,0.64749193,False positive,0.64749193
+717,32,85.65,2664.3,Month-to-month,Fiber optic,0,1,0.64678127,False positive,0.64678127
+481,48,45.3,2145.0,Month-to-month,DSL,1,0,0.3535645,False negative,0.6464355
+5013,23,34.65,768.45,Month-to-month,DSL,0,1,0.6448975,False positive,0.6448975
+626,23,84.25,1968.1,Month-to-month,Fiber optic,0,1,0.6442354,False positive,0.6442354
+18,10,55.2,528.35,Month-to-month,DSL,1,0,0.35652587,False negative,0.6434741
+3464,31,83.85,2674.15,Month-to-month,Fiber optic,0,1,0.6423353,False positive,0.6423353
+6107,1,19.95,19.95,Month-to-month,No,0,1,0.6418293,False positive,0.6418293
+5736,1,20.05,20.05,Month-to-month,No,0,1,0.6418293,False positive,0.6418293
+3463,37,91.15,3369.25,Month-to-month,Fiber optic,0,1,0.6412187,False positive,0.6412187
+2850,60,99.0,6017.9,Month-to-month,Fiber optic,0,1,0.64026886,False positive,0.64026886
+2139,7,66.85,458.1,Month-to-month,DSL,0,1,0.6397615,False positive,0.6397615
+5806,2,19.6,35.85,Month-to-month,No,1,0,0.36041483,False negative,0.63958514
+683,40,103.75,4188.4,One year,Fiber optic,0,1,0.638982,False positive,0.638982
+1583,6,48.95,273.25,Month-to-month,DSL,0,1,0.6389049,False positive,0.6389049
+3630,4,20.95,85.5,Month-to-month,No,1,0,0.3632285,False negative,0.6367715
+3742,41,106.5,4282.4,Month-to-month,Fiber optic,0,1,0.63519025,False positive,0.63519025
+558,11,70.2,760.05,Month-to-month,Fiber optic,0,1,0.63473433,False positive,0.63473433
+1179,43,94.3,3953.15,Month-to-month,Fiber optic,0,1,0.6346909,False positive,0.6346909
+6593,55,54.55,2978.3,Month-to-month,DSL,1,0,0.36546803,False negative,0.634532
+5884,46,59.9,2816.65,One year,DSL,1,0,0.36854804,False negative,0.63145196
+1171,60,94.4,5610.25,One year,Fiber optic,1,0,0.36890444,False negative,0.6310955
+1420,60,99.8,5985.75,Month-to-month,Fiber optic,0,1,0.6298693,False positive,0.6298693
+2604,29,100.55,2878.75,Month-to-month,Fiber optic,0,1,0.6257879,False positive,0.6257879
+768,41,74.25,3089.1,Month-to-month,Fiber optic,0,1,0.6239835,False positive,0.6239835
+3669,44,111.5,4915.15,Month-to-month,Fiber optic,0,1,0.6237818,False positive,0.6237818
+262,57,89.85,4925.35,Month-to-month,Fiber optic,0,1,0.6235879,False positive,0.6235879
+3869,50,98.25,4858.7,One year,Fiber optic,0,1,0.62292546,False positive,0.62292546
+895,30,94.3,2679.7,Month-to-month,Fiber optic,0,1,0.622476,False positive,0.622476
+3753,1,29.15,29.15,Month-to-month,DSL,0,1,0.62103665,False positive,0.62103665
+101,1,19.45,19.45,Month-to-month,No,0,1,0.6209958,False positive,0.6209958
+6181,61,99.9,6241.35,One year,Fiber optic,0,1,0.6207845,False positive,0.6207845
+560,56,107.25,6033.3,One year,Fiber optic,0,1,0.62055546,False positive,0.62055546
+4537,17,49.8,836.35,Month-to-month,DSL,0,1,0.620248,False positive,0.620248
+5968,12,74.05,872.65,One year,DSL,1,0,0.3805642,False negative,0.6194358
+3848,2,49.2,103.7,Month-to-month,DSL,0,1,0.6192022,False positive,0.6192022
+5842,13,78.75,995.35,Month-to-month,DSL,0,1,0.6180006,False positive,0.6180006
+6974,51,98.85,4947.55,One year,Fiber optic,0,1,0.61784637,False positive,0.61784637
+4275,1,25.75,25.75,Month-to-month,No,0,1,0.6167857,False positive,0.6167857
+2255,1,51.2,51.2,Month-to-month,DSL,0,1,0.61630136,False positive,0.61630136
+5822,35,70.55,2419.0,Month-to-month,Fiber optic,0,1,0.61587226,False positive,0.61587226
+3955,29,45.9,1332.4,Month-to-month,DSL,0,1,0.6155208,False positive,0.6155208
+3228,53,105.25,5576.3,One year,Fiber optic,0,1,0.6126336,False positive,0.6126336
+4982,61,104.4,6405.0,One year,Fiber optic,1,0,0.38825163,False negative,0.61174834
+3472,56,104.75,5841.35,Month-to-month,Fiber optic,0,1,0.60941595,False positive,0.60941595
+3874,9,43.75,405.7,Month-to-month,DSL,0,1,0.60927016,False positive,0.60927016
+2451,28,106.1,2847.4,One year,Fiber optic,1,0,0.39293027,False negative,0.60706973
+428,18,75.6,1395.05,Month-to-month,Fiber optic,0,1,0.605901,False positive,0.605901
+4259,3,19.6,59.75,Month-to-month,No,1,0,0.39414588,False negative,0.60585415
+2204,67,111.3,7482.1,One year,Fiber optic,1,0,0.3944114,False negative,0.60558856
+2467,49,97.95,4917.9,One year,Fiber optic,0,1,0.60544807,False positive,0.60544807
+2650,15,84.35,1302.65,Month-to-month,Fiber optic,0,1,0.60497904,False positive,0.60497904
+1184,18,87.9,1500.5,Month-to-month,Fiber optic,0,1,0.60470825,False positive,0.60470825
+2305,34,97.7,3410.0,Month-to-month,Fiber optic,0,1,0.6045641,False positive,0.6045641
+2102,18,80.55,1406.65,Month-to-month,Fiber optic,0,1,0.6041674,False positive,0.6041674
+2684,69,105.2,7386.05,One year,Fiber optic,0,1,0.60401493,False positive,0.60401493
+2278,7,48.2,340.35,Month-to-month,DSL,0,1,0.60217625,False positive,0.60217625
+1517,56,100.55,5514.95,One year,Fiber optic,0,1,0.60154665,False positive,0.60154665
+3623,37,72.25,2575.45,Month-to-month,Fiber optic,0,1,0.60114324,False positive,0.60114324
+2590,25,88.4,2191.15,Month-to-month,Fiber optic,0,1,0.5996223,False positive,0.5996223
+2931,33,105.35,3465.05,Month-to-month,Fiber optic,0,1,0.59952533,False positive,0.59952533
+4755,33,91.25,2964.05,Month-to-month,Fiber optic,0,1,0.5982215,False positive,0.5982215
+3240,54,106.55,5763.3,One year,Fiber optic,1,0,0.40236786,False negative,0.59763217
+6137,5,53.85,259.8,Month-to-month,DSL,1,0,0.4030196,False negative,0.5969804
+128,1,19.75,19.75,Month-to-month,No,0,1,0.5961842,False positive,0.5961842
+2608,7,34.5,279.25,Month-to-month,DSL,1,0,0.4050158,False negative,0.5949842
+5173,4,44.8,169.65,Month-to-month,DSL,0,1,0.59125423,False positive,0.59125423
+3632,24,79.65,1928.7,Month-to-month,Fiber optic,0,1,0.5892856,False positive,0.5892856
+3158,18,49.55,878.35,Month-to-month,DSL,1,0,0.41164798,False negative,0.588352
+1398,24,84.35,1938.05,Month-to-month,Fiber optic,0,1,0.5879969,False positive,0.5879969
+2783,43,94.1,4107.3,Month-to-month,Fiber optic,0,1,0.5879145,False positive,0.5879145
+2711,28,90.1,2598.95,One year,Fiber optic,1,0,0.4124844,False negative,0.5875156
+1883,35,100.5,3653.35,Month-to-month,Fiber optic,1,0,0.4135475,False negative,0.5864525
+2099,40,78.85,3126.85,Month-to-month,Fiber optic,0,1,0.5863458,False positive,0.5863458
+6393,26,92.4,2349.8,Month-to-month,Fiber optic,0,1,0.5848915,False positive,0.5848915
+6972,56,111.95,6418.9,One year,Fiber optic,1,0,0.41599426,False negative,0.5840057
+1443,3,55.8,154.55,Month-to-month,DSL,0,1,0.58312327,False positive,0.58312327
+6898,22,100.05,2090.25,One year,Fiber optic,0,1,0.58263737,False positive,0.58263737
+3448,4,61.45,229.55,Month-to-month,DSL,1,0,0.4201008,False negative,0.5798992
+6191,42,55.65,2421.75,Month-to-month,DSL,0,1,0.57922405,False positive,0.57922405
+1014,18,57.45,990.85,Month-to-month,DSL,1,0,0.42197326,False negative,0.5780268
+1577,17,98.6,1704.95,One year,Fiber optic,1,0,0.42457446,False negative,0.5754255
+2978,24,85.95,2107.15,Month-to-month,Fiber optic,0,1,0.57254714,False positive,0.57254714
+6399,55,73.1,4144.9,Month-to-month,Fiber optic,0,1,0.5719838,False positive,0.5719838
+7023,63,103.5,6479.4,Month-to-month,Fiber optic,0,1,0.5718423,False positive,0.5718423
+311,22,89.05,1886.25,Month-to-month,Fiber optic,0,1,0.5710546,False positive,0.5710546
+7033,38,69.5,2625.25,Month-to-month,Fiber optic,0,1,0.5707425,False positive,0.5707425
+4491,1,19.75,19.75,Month-to-month,No,0,1,0.56952226,False positive,0.56952226
+2773,24,29.1,688.0,Month-to-month,DSL,0,1,0.56951404,False positive,0.56951404
+2383,21,26.05,565.75,Month-to-month,DSL,0,1,0.5691593,False positive,0.5691593
+1461,22,95.9,2234.95,Month-to-month,Fiber optic,0,1,0.5685354,False positive,0.5685354
+325,52,102.7,5138.1,Month-to-month,Fiber optic,0,1,0.5676063,False positive,0.5676063
+2759,1,19.65,19.65,Month-to-month,No,0,1,0.56617767,False positive,0.56617767
+523,23,75.6,1758.6,Month-to-month,Fiber optic,1,0,0.43421745,False negative,0.56578255
+1023,45,86.1,3861.45,Month-to-month,Fiber optic,0,1,0.56568986,False positive,0.56568986
+541,11,58.95,601.6,Month-to-month,DSL,0,1,0.5633792,False positive,0.5633792
+4185,1,20.7,20.7,Month-to-month,No,0,1,0.5626662,False positive,0.5626662
+760,1,20.8,20.8,Month-to-month,No,0,1,0.55936086,False positive,0.55936086
+6454,41,81.3,3190.65,Month-to-month,Fiber optic,0,1,0.5581361,False positive,0.5581361
+5669,43,100.55,4304.0,One year,Fiber optic,0,1,0.5571368,False positive,0.5571368
+3706,26,84.3,2281.6,Month-to-month,Fiber optic,0,1,0.55591846,False positive,0.55591846
+5854,15,48.8,720.1,Month-to-month,DSL,0,1,0.55491436,False positive,0.55491436
+3831,25,89.05,2177.45,One year,Fiber optic,1,0,0.44556716,False negative,0.55443287
+4792,65,106.25,6979.8,One year,Fiber optic,1,0,0.44746345,False negative,0.55253655
+5006,15,55.7,899.8,Month-to-month,DSL,1,0,0.44832876,False negative,0.55167127
+4933,4,57.2,223.75,Month-to-month,DSL,0,1,0.5508222,False positive,0.5508222
+3236,16,55.3,875.35,Month-to-month,DSL,0,1,0.55055326,False positive,0.55055326
+5400,33,70.4,2406.1,Month-to-month,Fiber optic,0,1,0.54801613,False positive,0.54801613
+4340,5,48.65,235.2,Month-to-month,DSL,0,1,0.547239,False positive,0.547239
+4030,5,51.0,286.8,Month-to-month,DSL,0,1,0.54584736,False positive,0.54584736
+1567,10,67.8,653.15,Month-to-month,DSL,0,1,0.54336995,False positive,0.54336995
+5512,9,55.3,501.2,Month-to-month,DSL,0,1,0.5382717,False positive,0.5382717
+4571,20,69.8,1540.35,Month-to-month,Fiber optic,0,1,0.5379174,False positive,0.5379174
+5715,32,108.15,3432.9,Month-to-month,Fiber optic,1,0,0.46576664,False negative,0.53423333
+1703,11,35.65,425.1,Month-to-month,DSL,0,1,0.53394127,False positive,0.53394127
+1296,20,80.7,1614.2,Month-to-month,Fiber optic,0,1,0.53387773,False positive,0.53387773
+3664,4,50.8,202.3,Month-to-month,DSL,0,1,0.5338168,False positive,0.5338168
+5219,1,20.6,20.6,Month-to-month,No,0,1,0.5337651,False positive,0.5337651
+5048,54,99.1,5437.1,One year,Fiber optic,0,1,0.5335907,False positive,0.5335907
+469,13,55.95,734.35,Month-to-month,DSL,1,0,0.46727648,False negative,0.53272355
+223,4,50.05,179.35,Month-to-month,DSL,1,0,0.47380352,False negative,0.5261965
+1801,22,69.7,1490.4,Month-to-month,Fiber optic,0,1,0.5242423,False positive,0.5242423
+5105,40,99.2,4062.2,One year,Fiber optic,1,0,0.4760724,False negative,0.52392757
+3787,58,95.3,5817.7,Month-to-month,Fiber optic,0,1,0.52339333,False positive,0.52339333
+1345,57,100.75,5985.0,One year,Fiber optic,0,1,0.5232033,False positive,0.5232033
+1242,21,28.5,629.35,Month-to-month,DSL,0,1,0.5226618,False positive,0.5226618
+5355,48,95.4,4445.3,Month-to-month,Fiber optic,0,1,0.51931936,False positive,0.51931936
+1635,3,69.95,220.45,One year,DSL,0,1,0.51772976,False positive,0.51772976
+1578,7,59.5,415.95,Month-to-month,DSL,1,0,0.48292667,False negative,0.51707333
+6207,46,85.0,3969.4,Month-to-month,Fiber optic,1,0,0.4831754,False negative,0.5168246
+1893,16,69.1,1083.7,Month-to-month,DSL,0,1,0.51541764,False positive,0.51541764
+6853,54,111.1,6014.85,Month-to-month,Fiber optic,1,0,0.48747435,False negative,0.5125257
+4460,18,78.2,1468.75,Month-to-month,Fiber optic,0,1,0.5124464,False positive,0.5124464
+6292,39,100.0,3835.55,One year,Fiber optic,0,1,0.50837934,False positive,0.50837934
+2576,53,108.25,5935.1,Month-to-month,Fiber optic,0,1,0.5077733,False positive,0.5077733
+3312,1,20.3,20.3,Month-to-month,No,0,1,0.50766826,False positive,0.50766826
+3743,4,49.35,219.65,Month-to-month,DSL,1,0,0.49241427,False negative,0.50758576
+6537,70,115.65,7968.85,One year,Fiber optic,1,0,0.49444947,False negative,0.5055505
+1644,34,109.8,3587.25,Month-to-month,Fiber optic,1,0,0.4980499,False negative,0.5019501
+150,8,68.55,564.35,Month-to-month,DSL,0,1,0.50151885,False positive,0.50151885
+384,48,108.1,5067.45,Two year,Fiber optic,0,1,0.5012543,False positive,0.5012543
+5379,56,98.0,5270.6,One year,Fiber optic,0,1,0.50066173,False positive,0.50066173
