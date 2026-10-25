@@ -1,0 +1,7 @@
+Model,Domain,Support,Accuracy
+Multinomial Naive Bayes,Amazon,180,0.8
+Multinomial Naive Bayes,IMDb,186,0.8010752688172043
+Multinomial Naive Bayes,Yelp,219,0.8082191780821918
+Logistic Regression,Amazon,180,0.8111111111111111
+Logistic Regression,IMDb,186,0.8333333333333334
+Logistic Regression,Yelp,219,0.821917808219178

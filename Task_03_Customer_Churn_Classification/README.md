@@ -92,4 +92,4 @@ All **17 code cells** executed sequentially in two fresh local kernels. Saved CS
 
 This static dataset and random holdout do not establish performance on future customers. Twelve identical predictor profiles occur across training and test partitions for different customer IDs, which can make random-split estimates optimistic. A temporal or grouped evaluation would be preferable when suitable identifiers and dates are available. Class weighting does not calibrate probability estimates; operational thresholds need validation against intervention costs. Native feature importances are not causal explanations and cannot be compared directly across algorithms. The upstream URL is branch-based; its recorded fingerprint identifies this run's source.
 
-Task 3 implementation and local verification are complete. Task 4 remains pending. No Datheon approval, certification or final-form submission is claimed.
+Task 3 implementation and local verification are complete. [Task 4 is also complete](../Task_04_Sentiment_Classification/README.md). No Datheon approval, certification or final-form submission is claimed.

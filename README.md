@@ -2,7 +2,7 @@
 
 **Arafat Rahman** · Application ID: `DT-2026-JTNGO`
 
-Completed projects cover Iris classification, California housing regression and customer churn classification. Each includes an executed notebook, data checks, leakage-free preprocessing, saved evaluation results and diagnostic figures.
+Completed projects cover Iris classification, California housing regression customer churn classification and sentiment classification. Each includes an executed notebook, data checks, leakage-free preprocessing, saved evaluation results and diagnostic figures.
 
 [Open the executed notebook](Task_01_Classification/iris_classification.ipynb) · [Official task requirements](https://www.datheon.in/training/catalog/machine-learning-and-data-science-internship)
 
@@ -13,7 +13,16 @@ Completed projects cover Iris classification, California housing regression and 
 | Iris Classification | Completed | [Notebook](Task_01_Classification/iris_classification.ipynb) |
 | Housing Price Prediction | Completed | [Overview and results](Task_02_Housing_Price_Prediction/README.md) · [Notebook](Task_02_Housing_Price_Prediction/housing_price_prediction.ipynb) |
 | Customer Churn Classification | Completed | [Overview and results](Task_03_Customer_Churn_Classification/README.md) · [Notebook](Task_03_Customer_Churn_Classification/customer_churn_classification.ipynb) |
-| Sentiment Classification | Pending | [Folder](Task_04_Sentiment_Classification/) |
+| Sentiment Classification | Completed | [Overview and results](Task_04_Sentiment_Classification/README.md) · [Notebook](Task_04_Sentiment_Classification/sentiment_classification.ipynb) |
+
+## Sentiment classification results
+
+| Model | Accuracy | Macro precision | Macro recall | Macro F1 |
+|:--|--:|--:|--:|--:|
+| Multinomial Naive Bayes | 0.8034 | 0.8039 | 0.8034 | 0.8033 |
+| Logistic Regression | 0.8222 | 0.8223 | 0.8222 | 0.8222 |
+
+Evaluated on 585 held-out sentences after cleaning and deduplication. The official CSV returned HTTP 404; the documented substitute is UCI Sentiment Labelled Sentences. See [methodology, source attribution and limitations](Task_04_Sentiment_Classification/README.md).
 
 ## Customer churn results
 
@@ -97,7 +106,10 @@ Machine_Learning_Data_Science_Internship/
 │   ├── results/
 │   └── figures/
 ├── Task_04_Sentiment_Classification/
-│   └── README.md                 # Pending
+│   ├── sentiment_classification.ipynb
+│   ├── README.md
+│   ├── results/
+│   └── figures/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -165,6 +177,6 @@ The notebook completed **two sequential runs in separate fresh kernels**, includ
 - [x] Task 1 — Iris classification: implemented, executed and verified
 - [x] [Task 2 — Housing Price Prediction](Task_02_Housing_Price_Prediction/) — Implemented, executed and verified
 - [x] [Task 3 — Customer Churn Classification](Task_03_Customer_Churn_Classification/) — Implemented, executed and verified
-- [ ] [Task 4 — Sentiment Classification](Task_04_Sentiment_Classification/) — Pending
+- [x] [Task 4 — Sentiment Classification](Task_04_Sentiment_Classification/) — Implemented, executed and verified
 
 Task completion here records implementation and local verification only. Datheon review and approval are not claimed; no certificate has been issued through this project, and the final internship form has not been submitted.

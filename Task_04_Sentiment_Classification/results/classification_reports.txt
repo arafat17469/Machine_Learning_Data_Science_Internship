@@ -1,0 +1,19 @@
+Multinomial Naive Bayes
+              precision    recall  f1-score   support
+
+    Negative     0.8149    0.7842    0.7993       292
+    Positive     0.7928    0.8225    0.8074       293
+
+    accuracy                         0.8034       585
+   macro avg     0.8039    0.8034    0.8033       585
+weighted avg     0.8038    0.8034    0.8033       585
+
+Logistic Regression
+              precision    recall  f1-score   support
+
+    Negative     0.8264    0.8151    0.8207       292
+    Positive     0.8182    0.8294    0.8237       293
+
+    accuracy                         0.8222       585
+   macro avg     0.8223    0.8222    0.8222       585
+weighted avg     0.8223    0.8222    0.8222       585

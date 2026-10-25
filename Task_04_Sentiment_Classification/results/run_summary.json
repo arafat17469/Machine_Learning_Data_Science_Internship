@@ -1,0 +1,13 @@
+{
+  "raw_rows": 3000,
+  "empty_after_cleaning": 2,
+  "conflicting_rows_removed": 0,
+  "duplicate_rows_removed": 73,
+  "retained_rows": 2925,
+  "train_rows": 2340,
+  "test_rows": 585,
+  "source_sha256": "afc26626d710899948693e1a61405dce197f57ffa719fa1130d346b4cc095343",
+  "baseline_accuracy": 0.5008547008547009,
+  "highest_observed_macro_f1": "Logistic Regression",
+  "source_substitution": "Official Datheon CSV returned HTTP 404; UCI Sentiment Labelled Sentences used."
+}

@@ -1,0 +1,220 @@
+Model,source_id,domain,true_label,predicted_label,snippet
+Multinomial Naive Bayes,IMDb:493,IMDb,1,0,But this movie really got to me.  
+Multinomial Naive Bayes,Amazon:46,Amazon,1,0,It has all the features I want
+Multinomial Naive Bayes,Amazon:227,Amazon,1,0,I usually don't like headbands but this one is very lightweight & doesn't mess up my hair.
+Multinomial Naive Bayes,Yelp:484,Yelp,0,1,The selection of food was not the best.
+Multinomial Naive Bayes,IMDb:801,IMDb,0,1,"In fact, this stinker smells like a direct-to-video release.  "
+Multinomial Naive Bayes,Yelp:635,Yelp,0,1,Ordered burger rare came in we'll done.
+Multinomial Naive Bayes,Amazon:184,Amazon,0,1,"I have this phone and it is a thorn in my side, I really abhor it."
+Multinomial Naive Bayes,IMDb:834,IMDb,1,0,"Feelings, thoughts...Gabriel's discomfort during the dance...all these intangibles leap to life and come within the viewer's grasp in Huston's portrayal.  "
+Multinomial Naive Bayes,IMDb:413,IMDb,1,0,Not too screamy not to masculine but just right.  
+Multinomial Naive Bayes,Amazon:400,Amazon,0,1,Still Waiting...... I'm sure this item would work well.. if I ever recieve it!
+Multinomial Naive Bayes,IMDb:540,IMDb,0,1,i wouldnt see this movie again for free.  
+Multinomial Naive Bayes,Amazon:824,Amazon,1,0,They keep getting better and better (this is my third one and I've had numerous Palms too).
+Multinomial Naive Bayes,Yelp:87,Yelp,0,1,The poor batter to meat ratio made the chicken tenders very unsatisfying.
+Multinomial Naive Bayes,IMDb:844,IMDb,1,0,"It has everything you could want... suspense, drama, comedy, confusing subplots, native americans, brain eating... If you're looking for the be-all, end-all of brainsucking movies,"
+Multinomial Naive Bayes,Yelp:911,Yelp,0,1,I seriously cannot believe that the owner has so many unexperienced employees that all are running around like chickens with their heads cut off.
+Multinomial Naive Bayes,Yelp:259,Yelp,1,0,They know how to make them here.
+Multinomial Naive Bayes,Amazon:621,Amazon,0,1,"Steer clear of this product and go with the genuine Palm replacementr pens, which come in a three-pack."
+Multinomial Naive Bayes,Yelp:95,Yelp,0,1,say bye bye to your tip lady!
+Multinomial Naive Bayes,Amazon:441,Amazon,0,1,Very Displeased.
+Multinomial Naive Bayes,Yelp:870,Yelp,0,1,The feel of the dining room was more college cooking course than high class dining and the service was slow at best.
+Multinomial Naive Bayes,Yelp:203,Yelp,0,1,The warm beer didn't help.
+Multinomial Naive Bayes,Amazon:988,Amazon,0,1,Phone falls out easily.
+Multinomial Naive Bayes,Yelp:334,Yelp,0,1,Everything was gross.
+Multinomial Naive Bayes,Amazon:944,Amazon,0,1,I'm returning them.
+Multinomial Naive Bayes,Amazon:922,Amazon,0,1,It also had a new problem.
+Multinomial Naive Bayes,IMDb:537,IMDb,0,1,the movie is littered with overt racial slurs towards the black cast members and in return the whites are depicted as morons and boobs.  
+Multinomial Naive Bayes,Amazon:17,Amazon,0,1,I advise EVERYONE DO NOT BE FOOLED!
+Multinomial Naive Bayes,Amazon:430,Amazon,1,0,My Sanyo has survived dozens of drops on blacktop without ill effect.
+Multinomial Naive Bayes,Amazon:733,Amazon,1,0,T-Mobile has the best customer service anywhere.
+Multinomial Naive Bayes,Amazon:795,Amazon,0,1,"The internet access was fine, it the rare instance that it worked."
+Multinomial Naive Bayes,IMDb:818,IMDb,1,0,You will leave the theater wanting to go out and dance under the stars.  
+Multinomial Naive Bayes,Yelp:619,Yelp,1,0,They really want to make your experience a good one.
+Multinomial Naive Bayes,Yelp:719,Yelp,1,0,"After one bite, I was hooked."
+Multinomial Naive Bayes,Amazon:935,Amazon,1,0,"You get extra minutes so that you can carry out the call and not get cut off."""
+Multinomial Naive Bayes,Amazon:342,Amazon,0,1,Was not happy.
+Multinomial Naive Bayes,IMDb:926,IMDb,0,1,Not easy to watch.  
+Multinomial Naive Bayes,Yelp:489,Yelp,0,1,"It was attached to a gas station, and that is rarely a good sign."
+Multinomial Naive Bayes,IMDb:265,IMDb,1,0,"And there wasn't a single sour note struck acting-wise, either; some surprisingly solid casting, here.  "
+Multinomial Naive Bayes,Amazon:327,Amazon,0,1,"However-the riingtones are not the best, and neither are the games."
+Multinomial Naive Bayes,Amazon:971,Amazon,0,1,I plugged it in only to find out not a darn thing worked.
+Multinomial Naive Bayes,IMDb:285,IMDb,0,1,When I saw it in the theater I thought I was going to be sick.  
+Multinomial Naive Bayes,IMDb:82,IMDb,1,0,This if the first movie I've given a 10 to in years.  
+Multinomial Naive Bayes,Yelp:763,Yelp,0,1,"The chicken dishes are OK, the beef is like shoe leather."
+Multinomial Naive Bayes,Amazon:153,Amazon,1,0,I had absolutely no problem with this headset linking to my 8530 Blackberry Curve!
+Multinomial Naive Bayes,Yelp:446,Yelp,1,0,"Not to mention the combination of pears, almonds and bacon is a big winner!"
+Multinomial Naive Bayes,IMDb:169,IMDb,1,0,"Still, I do like this movie for it's empowerment of women; there's not enough movies out there like this one.  "
+Multinomial Naive Bayes,Yelp:767,Yelp,1,0,One of the few places in Phoenix that I would definately go back to again .
+Multinomial Naive Bayes,Yelp:367,Yelp,0,1,My wife had the Lobster Bisque soup which was lukewarm.
+Multinomial Naive Bayes,Yelp:193,Yelp,0,1,"When my order arrived, one of the gyros was missing."
+Multinomial Naive Bayes,Amazon:423,Amazon,0,1,Oh and I forgot to also mention the weird color effect it has on your phone.
+Multinomial Naive Bayes,IMDb:181,IMDb,0,1,The lead man is charisma-free.  
+Multinomial Naive Bayes,IMDb:964,IMDb,1,0,"The film's dialogue is natural, real to life.  "
+Multinomial Naive Bayes,Yelp:577,Yelp,0,1,I swung in to give them a try but was deeply disappointed.
+Multinomial Naive Bayes,Amazon:84,Amazon,0,1,The battery runs down quickly.
+Multinomial Naive Bayes,IMDb:356,IMDb,1,0,I must say I have taped most of the episodes and i find myself watching them over and over again.  
+Multinomial Naive Bayes,Amazon:201,Amazon,1,0,"The color is even prettier than I thought it would be, and the graphics are incredibly sharp."
+Multinomial Naive Bayes,Yelp:560,Yelp,1,0,I *heart* this place.
+Multinomial Naive Bayes,Amazon:636,Amazon,1,0,im surprised this is a good quality car charger and there's not much reviews about it.
+Multinomial Naive Bayes,Yelp:605,Yelp,1,0,Couldn't ask for a more satisfying meal.
+Multinomial Naive Bayes,IMDb:935,IMDb,1,0,For readers who have already seen one of Miyazaki's films: he is still in top form and made another worthwhile experience.  
+Multinomial Naive Bayes,Yelp:628,Yelp,0,1,Any grandmother can make a roasted chicken better than this one.
+Multinomial Naive Bayes,Amazon:774,Amazon,1,0,The reception has been generally good.
+Multinomial Naive Bayes,IMDb:490,IMDb,0,1,It is just the sort of pap that is screened in the afternoon to punish the unemployed for not having jobs.  
+Multinomial Naive Bayes,Yelp:124,Yelp,1,0,"The guys all had steaks, and our steak loving son who has had steak at the best and worst places said it was the best steak he's ever eaten."
+Multinomial Naive Bayes,IMDb:172,IMDb,0,1,This movie now joins Revenge of the Boogeyman and Zombiez as part of the hellish trinity of horror films.  
+Multinomial Naive Bayes,IMDb:788,IMDb,1,0,If you want a real scare rent this one!  
+Multinomial Naive Bayes,Yelp:875,Yelp,0,1,Weird vibe from owners.
+Multinomial Naive Bayes,Yelp:278,Yelp,1,0,The goat taco didn't skimp on the meat and wow what FLAVOR!
+Multinomial Naive Bayes,IMDb:816,IMDb,1,0,But this understated film leaves a lasting impression.  
+Multinomial Naive Bayes,IMDb:928,IMDb,1,0,It was a long time that i didn't see a so charismatic actor on screen.  
+Multinomial Naive Bayes,IMDb:90,IMDb,1,0,It actually turned out to be pretty decent as far as B-list horror/suspense films go.  
+Multinomial Naive Bayes,Amazon:303,Amazon,1,0,Someone shouldve invented this sooner.
+Multinomial Naive Bayes,IMDb:737,IMDb,0,1,That was done in the second movie.  
+Multinomial Naive Bayes,Yelp:117,Yelp,0,1,It was pretty gross!
+Multinomial Naive Bayes,Amazon:999,Amazon,0,1,The only thing that disappoint me is the infra red port (irda).
+Multinomial Naive Bayes,Amazon:712,Amazon,0,1,"It lasts less than 3o minutes, if I actually try to use the phone.My wife has the same phone with the same problem."
+Multinomial Naive Bayes,IMDb:59,IMDb,1,0,Anne Heche was utterly convincing.  
+Multinomial Naive Bayes,IMDb:787,IMDb,1,0,I love the Scream movies and all horror movies and this one ranks way up there.  
+Multinomial Naive Bayes,IMDb:930,IMDb,1,0,The movie is not completely perfect but 'Titta Di Girolamo' will stay with you for a long time after the vision of the movie.  
+Multinomial Naive Bayes,IMDb:768,IMDb,0,1,"I am so tired of clichés that is just lazy writing, and here they come in thick and fast.  "
+Multinomial Naive Bayes,Yelp:324,Yelp,1,0,"A couple of months later, I returned and had an amazing meal."
+Multinomial Naive Bayes,Yelp:918,Yelp,0,1,I got food poisoning here at the buffet.
+Multinomial Naive Bayes,Amazon:396,Amazon,1,0,Better than you'd expect.
+Multinomial Naive Bayes,IMDb:482,IMDb,0,1,"And, FINALLY, after all that, we get to an ending that would've been great had it been handled by competent people and not Jerry Falwell.  "
+Multinomial Naive Bayes,Yelp:963,Yelp,0,1,She was quite disappointed although some blame needs to be placed at her door.
+Multinomial Naive Bayes,IMDb:795,IMDb,1,0,"Predictable, but not a bad watch.  "
+Multinomial Naive Bayes,IMDb:705,IMDb,0,1,DELETE this film from your mind!  
+Multinomial Naive Bayes,Yelp:785,Yelp,0,1,"The chains, which I'm no fan of, beat this place easily."
+Multinomial Naive Bayes,Yelp:522,Yelp,1,0,If you haven't gone here GO NOW!
+Multinomial Naive Bayes,IMDb:421,IMDb,0,1,It just blew.  
+Multinomial Naive Bayes,Amazon:624,Amazon,0,1,"Plus, I seriously do not believe it is worth its steep price point."
+Multinomial Naive Bayes,Yelp:677,Yelp,1,0,I can't wait to go back.
+Multinomial Naive Bayes,IMDb:219,IMDb,0,1,It's this pandering to the audience that sabotages most of his films.  
+Multinomial Naive Bayes,Yelp:841,Yelp,0,1,"for 40 bucks a head, i really expect better food."
+Multinomial Naive Bayes,IMDb:411,IMDb,1,0,A world better than 95% of the garbage in the theatres today.  
+Multinomial Naive Bayes,Amazon:763,Amazon,1,0,Just what I wanted.
+Multinomial Naive Bayes,IMDb:241,IMDb,0,1,If you check the director's filmography on this site you will see why this film didn't have a chance.  
+Multinomial Naive Bayes,Amazon:840,Amazon,0,1,I have bought this Nokia cell phone a few weeks ago and it was a nightmare.
+Multinomial Naive Bayes,Yelp:814,Yelp,0,1,It was packed!!
+Multinomial Naive Bayes,IMDb:450,IMDb,1,0,"I won't say any more - I don't like spoilers, so I don't want to be one, but I believe this film is worth your time.  "
+Multinomial Naive Bayes,Amazon:190,Amazon,0,1,"But when I check voice mail at night, the keypad backlight turns off a few seconds into the first message, and then I'm lost."
+Multinomial Naive Bayes,Yelp:682,Yelp,0,1,Your staff spends more time talking to themselves than me.
+Multinomial Naive Bayes,Amazon:316,Amazon,0,1,It's uncomfortable and the sound quality is quite poor compared with the phone (Razr) or with my previous wired headset (that plugged into an LG).
+Multinomial Naive Bayes,Yelp:494,Yelp,1,0,CONCLUSION: Very filling meals.
+Multinomial Naive Bayes,Amazon:941,Amazon,1,0,A lot of websites have been rating this a very good phone and so do I.
+Multinomial Naive Bayes,Yelp:35,Yelp,1,0,"Overall, I like this place a lot."
+Multinomial Naive Bayes,Yelp:829,Yelp,0,1,The service here is fair at best.
+Multinomial Naive Bayes,Yelp:807,Yelp,1,0,I could eat their bruschetta all day it is devine.
+Multinomial Naive Bayes,Amazon:807,Amazon,0,1,"At first I thought I was grtting a good deal at $7.44, until I plugged it into my phone (V3c Razr)."
+Multinomial Naive Bayes,Yelp:318,Yelp,1,0,"Back to good BBQ, lighter fare, reasonable pricing and tell the public they are back to the old ways."
+Multinomial Naive Bayes,Yelp:611,Yelp,0,1,!....THE OWNERS REALLY REALLY need to quit being soooooo cheap let them wrap my freaking sandwich in two papers not one!
+Multinomial Naive Bayes,IMDb:685,IMDb,1,0,This is definitely one of the better documentaries I have seen looking at family relationships and marriage.  
+Multinomial Naive Bayes,Yelp:483,Yelp,0,1,Seafood was limited to boiled shrimp and crab legs but the crab legs definitely did not taste fresh.
+Multinomial Naive Bayes,Amazon:564,Amazon,0,1,"If you are looking for a good quality Motorola Headset keep looking, this isn't it."
+Multinomial Naive Bayes,Yelp:919,Yelp,0,1,They brought a fresh batch of fries and I was thinking yay something warm but no!
+Logistic Regression,IMDb:493,IMDb,1,0,But this movie really got to me.  
+Logistic Regression,Amazon:46,Amazon,1,0,It has all the features I want
+Logistic Regression,Amazon:227,Amazon,1,0,I usually don't like headbands but this one is very lightweight & doesn't mess up my hair.
+Logistic Regression,Yelp:484,Yelp,0,1,The selection of food was not the best.
+Logistic Regression,IMDb:801,IMDb,0,1,"In fact, this stinker smells like a direct-to-video release.  "
+Logistic Regression,Amazon:184,Amazon,0,1,"I have this phone and it is a thorn in my side, I really abhor it."
+Logistic Regression,Amazon:918,Amazon,1,0,Leopard Print is wonderfully wild!.
+Logistic Regression,Amazon:588,Amazon,0,1,Also difficult to put on.I'd recommend avoiding this product.
+Logistic Regression,IMDb:413,IMDb,1,0,Not too screamy not to masculine but just right.  
+Logistic Regression,Amazon:986,Amazon,0,1,"There was so much hype over this phone that I assumed it was the best, my mistake."
+Logistic Regression,Amazon:379,Amazon,1,0,"Clear Skype Calls, Long Battery Life, Long Range."
+Logistic Regression,Amazon:400,Amazon,0,1,Still Waiting...... I'm sure this item would work well.. if I ever recieve it!
+Logistic Regression,IMDb:861,IMDb,1,0,"If there was ever an indication of a writer and a director's ability to meld two highly volatile temperaments into a seamless union of creativity, then this is it!  "
+Logistic Regression,IMDb:540,IMDb,0,1,i wouldnt see this movie again for free.  
+Logistic Regression,Amazon:824,Amazon,1,0,They keep getting better and better (this is my third one and I've had numerous Palms too).
+Logistic Regression,IMDb:692,IMDb,1,0,"Shot in the Southern California desert using his patent faux documentary style, Watkins creates a film like no other.  "
+Logistic Regression,Amazon:443,Amazon,0,1,They made this case too small and is very difficult to install.
+Logistic Regression,IMDb:844,IMDb,1,0,"It has everything you could want... suspense, drama, comedy, confusing subplots, native americans, brain eating... If you're looking for the be-all, end-all of brainsucking movies,"
+Logistic Regression,Yelp:911,Yelp,0,1,I seriously cannot believe that the owner has so many unexperienced employees that all are running around like chickens with their heads cut off.
+Logistic Regression,Yelp:259,Yelp,1,0,They know how to make them here.
+Logistic Regression,Amazon:621,Amazon,0,1,"Steer clear of this product and go with the genuine Palm replacementr pens, which come in a three-pack."
+Logistic Regression,Yelp:95,Yelp,0,1,say bye bye to your tip lady!
+Logistic Regression,Yelp:25,Yelp,1,0,So they performed.
+Logistic Regression,Yelp:648,Yelp,0,1,Food was average at best.
+Logistic Regression,Yelp:870,Yelp,0,1,The feel of the dining room was more college cooking course than high class dining and the service was slow at best.
+Logistic Regression,Amazon:988,Amazon,0,1,Phone falls out easily.
+Logistic Regression,Yelp:334,Yelp,0,1,Everything was gross.
+Logistic Regression,Amazon:922,Amazon,0,1,It also had a new problem.
+Logistic Regression,IMDb:537,IMDb,0,1,the movie is littered with overt racial slurs towards the black cast members and in return the whites are depicted as morons and boobs.  
+Logistic Regression,IMDb:712,IMDb,0,1,Lame would be the best way to describe it.  
+Logistic Regression,Amazon:430,Amazon,1,0,My Sanyo has survived dozens of drops on blacktop without ill effect.
+Logistic Regression,Amazon:795,Amazon,0,1,"The internet access was fine, it the rare instance that it worked."
+Logistic Regression,Yelp:719,Yelp,1,0,"After one bite, I was hooked."
+Logistic Regression,Amazon:935,Amazon,1,0,"You get extra minutes so that you can carry out the call and not get cut off."""
+Logistic Regression,Amazon:778,Amazon,1,0,WORTHWHILE.
+Logistic Regression,Yelp:489,Yelp,0,1,"It was attached to a gas station, and that is rarely a good sign."
+Logistic Regression,IMDb:265,IMDb,1,0,"And there wasn't a single sour note struck acting-wise, either; some surprisingly solid casting, here.  "
+Logistic Regression,Yelp:727,Yelp,1,0,"One nice thing was that they added gratuity on the bill since our party was larger than 6 or 8, and they didn't expect more tip than that."
+Logistic Regression,IMDb:82,IMDb,1,0,This if the first movie I've given a 10 to in years.  
+Logistic Regression,Yelp:763,Yelp,0,1,"The chicken dishes are OK, the beef is like shoe leather."
+Logistic Regression,Amazon:153,Amazon,1,0,I had absolutely no problem with this headset linking to my 8530 Blackberry Curve!
+Logistic Regression,Yelp:446,Yelp,1,0,"Not to mention the combination of pears, almonds and bacon is a big winner!"
+Logistic Regression,IMDb:169,IMDb,1,0,"Still, I do like this movie for it's empowerment of women; there's not enough movies out there like this one.  "
+Logistic Regression,Yelp:767,Yelp,1,0,One of the few places in Phoenix that I would definately go back to again .
+Logistic Regression,IMDb:740,IMDb,0,1,What on earth is Irons doing in this film?  
+Logistic Regression,Yelp:367,Yelp,0,1,My wife had the Lobster Bisque soup which was lukewarm.
+Logistic Regression,Yelp:193,Yelp,0,1,"When my order arrived, one of the gyros was missing."
+Logistic Regression,Amazon:482,Amazon,0,1,"Verizon's bills, however, are difficult to understand even though their pricing plans are simple."
+Logistic Regression,Amazon:423,Amazon,0,1,Oh and I forgot to also mention the weird color effect it has on your phone.
+Logistic Regression,IMDb:181,IMDb,0,1,The lead man is charisma-free.  
+Logistic Regression,Yelp:577,Yelp,0,1,I swung in to give them a try but was deeply disappointed.
+Logistic Regression,Yelp:33,Yelp,1,0,I found this place by accident and I could not be happier.
+Logistic Regression,Amazon:84,Amazon,0,1,The battery runs down quickly.
+Logistic Regression,Amazon:201,Amazon,1,0,"The color is even prettier than I thought it would be, and the graphics are incredibly sharp."
+Logistic Regression,Yelp:560,Yelp,1,0,I *heart* this place.
+Logistic Regression,Amazon:636,Amazon,1,0,im surprised this is a good quality car charger and there's not much reviews about it.
+Logistic Regression,Yelp:605,Yelp,1,0,Couldn't ask for a more satisfying meal.
+Logistic Regression,IMDb:935,IMDb,1,0,For readers who have already seen one of Miyazaki's films: he is still in top form and made another worthwhile experience.  
+Logistic Regression,Yelp:628,Yelp,0,1,Any grandmother can make a roasted chicken better than this one.
+Logistic Regression,Yelp:273,Yelp,1,0,You can't beat that.
+Logistic Regression,IMDb:172,IMDb,0,1,This movie now joins Revenge of the Boogeyman and Zombiez as part of the hellish trinity of horror films.  
+Logistic Regression,IMDb:788,IMDb,1,0,If you want a real scare rent this one!  
+Logistic Regression,Yelp:875,Yelp,0,1,Weird vibe from owners.
+Logistic Regression,Yelp:278,Yelp,1,0,The goat taco didn't skimp on the meat and wow what FLAVOR!
+Logistic Regression,IMDb:928,IMDb,1,0,It was a long time that i didn't see a so charismatic actor on screen.  
+Logistic Regression,IMDb:56,IMDb,0,1,"But I recommend waiting for their future efforts, let this one go.  "
+Logistic Regression,Amazon:303,Amazon,1,0,Someone shouldve invented this sooner.
+Logistic Regression,IMDb:737,IMDb,0,1,That was done in the second movie.  
+Logistic Regression,Yelp:117,Yelp,0,1,It was pretty gross!
+Logistic Regression,Amazon:999,Amazon,0,1,The only thing that disappoint me is the infra red port (irda).
+Logistic Regression,Amazon:975,Amazon,0,1,This phone tries very hard to do everything but fails at it's very ability to be a phone.
+Logistic Regression,IMDb:59,IMDb,1,0,Anne Heche was utterly convincing.  
+Logistic Regression,IMDb:930,IMDb,1,0,The movie is not completely perfect but 'Titta Di Girolamo' will stay with you for a long time after the vision of the movie.  
+Logistic Regression,IMDb:768,IMDb,0,1,"I am so tired of clichés that is just lazy writing, and here they come in thick and fast.  "
+Logistic Regression,Yelp:324,Yelp,1,0,"A couple of months later, I returned and had an amazing meal."
+Logistic Regression,Amazon:396,Amazon,1,0,Better than you'd expect.
+Logistic Regression,IMDb:482,IMDb,0,1,"And, FINALLY, after all that, we get to an ending that would've been great had it been handled by competent people and not Jerry Falwell.  "
+Logistic Regression,Yelp:963,Yelp,0,1,She was quite disappointed although some blame needs to be placed at her door.
+Logistic Regression,IMDb:795,IMDb,1,0,"Predictable, but not a bad watch.  "
+Logistic Regression,Yelp:84,Yelp,1,0,This place has it!
+Logistic Regression,IMDb:705,IMDb,0,1,DELETE this film from your mind!  
+Logistic Regression,Yelp:522,Yelp,1,0,If you haven't gone here GO NOW!
+Logistic Regression,IMDb:969,IMDb,1,0,"Hayao Miyazaki's latest and eighth film for Studio Ghibili, ""Gake No Ue No Ponyo"" (Ponyo on the Cliff by the Sea) is a wonderfully fun and imaginative look at childhood.  "
+Logistic Regression,Amazon:624,Amazon,0,1,"Plus, I seriously do not believe it is worth its steep price point."
+Logistic Regression,Yelp:677,Yelp,1,0,I can't wait to go back.
+Logistic Regression,IMDb:219,IMDb,0,1,It's this pandering to the audience that sabotages most of his films.  
+Logistic Regression,Yelp:687,Yelp,1,0,"Prices are very reasonable, flavors are spot on, the sauce is home made, and the slaw is not drenched in mayo."
+Logistic Regression,Yelp:841,Yelp,0,1,"for 40 bucks a head, i really expect better food."
+Logistic Regression,IMDb:411,IMDb,1,0,A world better than 95% of the garbage in the theatres today.  
+Logistic Regression,Amazon:763,Amazon,1,0,Just what I wanted.
+Logistic Regression,IMDb:241,IMDb,0,1,If you check the director's filmography on this site you will see why this film didn't have a chance.  
+Logistic Regression,Amazon:840,Amazon,0,1,I have bought this Nokia cell phone a few weeks ago and it was a nightmare.
+Logistic Regression,IMDb:450,IMDb,1,0,"I won't say any more - I don't like spoilers, so I don't want to be one, but I believe this film is worth your time.  "
+Logistic Regression,Yelp:682,Yelp,0,1,Your staff spends more time talking to themselves than me.
+Logistic Regression,Amazon:316,Amazon,0,1,It's uncomfortable and the sound quality is quite poor compared with the phone (Razr) or with my previous wired headset (that plugged into an LG).
+Logistic Regression,Yelp:406,Yelp,0,1,Left very frustrated.
+Logistic Regression,Yelp:494,Yelp,1,0,CONCLUSION: Very filling meals.
+Logistic Regression,Amazon:469,Amazon,0,1,I find this inexcusable and so will probably be returning this phone and perhaps changing carriers.
+Logistic Regression,Yelp:829,Yelp,0,1,The service here is fair at best.
+Logistic Regression,Yelp:807,Yelp,1,0,I could eat their bruschetta all day it is devine.
+Logistic Regression,Amazon:807,Amazon,0,1,"At first I thought I was grtting a good deal at $7.44, until I plugged it into my phone (V3c Razr)."
+Logistic Regression,Yelp:659,Yelp,1,0,It was just not a fun experience.
+Logistic Regression,Yelp:483,Yelp,0,1,Seafood was limited to boiled shrimp and crab legs but the crab legs definitely did not taste fresh.
+Logistic Regression,Amazon:564,Amazon,0,1,"If you are looking for a good quality Motorola Headset keep looking, this isn't it."
