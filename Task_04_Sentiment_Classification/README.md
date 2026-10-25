@@ -84,7 +84,9 @@ Or open the notebook in VS Code with Microsoft's Jupyter extension and select th
 
 ## Validation and limitations
 
-All 14 code cells executed in two fresh local kernels; saved CSV results reproduced within 1e-12 numerical tolerance. Assertions check schema, class counts, normalized-text separation, training-only vocabulary, metrics against confusion-matrix counts, custom-helper edge cases and all 11 generated artifacts. Four saved figures were visually inspected. A full interactive notebook browser preview was unavailable; the HTML export is generated for inspection outside the repository.
+The public Kaggle execution completed successfully. Its downloaded test predictions, aggregate metrics and source summary match the local execution; all four figures and seven result files were verified. GitHub publication was checked against local file hashes.
+
+All 14 code cells executed in two fresh local kernels; saved CSV results reproduced within 1e-12 numerical tolerance. Assertions check schema, class counts, normalized-text separation, training-only vocabulary, metrics against confusion-matrix counts, custom-helper edge cases and all 11 generated artifacts. Four saved figures were visually inspected. The HTML preview was exported outside the repository; full browser-page inspection was not performed.
 
 The data consists of selected binary English sentences and excludes neutral examples. Results do not establish reliability on full reviews, sarcasm, mixed sentiment, other languages or future domains. Noun-only lemmatization and stopword removal can discard context. Related source reviews may remain despite normalized deduplication because original review IDs are unavailable. Domain scores are subsets of the same holdout, not tests on unseen domains. The small random holdout does not quantify uncertainty across splits.
 
