@@ -2,7 +2,7 @@
 
 Compare OLS, Ridge and Lasso on California housing data using reproducible feature engineering, fold-specific preprocessing and held-out evaluation.
 
-[Executed notebook](housing_price_prediction.ipynb) · [Official requirements](https://www.datheon.in/training/catalog/machine-learning-and-data-science-internship) · [Back to internship overview](../README.md)
+[Executed notebook](housing_price_prediction.ipynb) · [Kaggle notebook](https://www.kaggle.com/code/arafat1746/housing-price-prediction) · [Official requirements](https://www.datheon.in/training/catalog/machine-learning-and-data-science-internship) · [Back to internship overview](../README.md)
 
 ## Results
 
@@ -11,7 +11,6 @@ Compare OLS, Ridge and Lasso on California housing data using reproducible featu
 | OLS | 68,845.00 | 49,458.67 | 0.6383 | 67,675.28 | — |
 | Ridge | 68,897.95 | 49,469.16 | 0.6378 | 67,663.06 | 10 |
 | Lasso | 68,937.05 | 49,426.84 | 0.6373 | 67,660.87 | 100 |
-
 
 Training-only five-fold CV selected **Lasso (alpha = 100)**. OLS had the lowest observed test RMSE; the difference is small and does not establish general superiority. The test set was not used for tuning or changing the selected model. The training-mean baseline test RMSE was **$114,485.64**.
 
@@ -75,4 +74,4 @@ The models perform similarly. Residuals show long tails and systematic structure
 
 All 19 code cells completed in two fresh-kernel runs, from the Task 2 directory and repository root. All 13 generated artifacts were byte-identical. Metrics were independently recomputed from saved predictions; fitted medians and scaler sample counts were checked against training rows. All seven charts were visually inspected. Full notebook browser preview was not available.
 
-**Status: Completed and locally verified.** This does not claim Datheon approval or certification. Tasks 3 and 4 remain pending.
+**Status: Completed and locally verified.** This does not claim Datheon approval or certification. All four projects are complete; see the [project overview](../README.md).

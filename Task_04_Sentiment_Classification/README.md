@@ -2,7 +2,7 @@
 
 **Arafat Rahman** · Datheon Machine Learning & Data Science Internship · Application `DT-2026-JTNGO`
 
-[Executed notebook](sentiment_classification.ipynb) · [Kaggle notebook](https://www.kaggle.com/code/arafat1746/sentiment-classification)
+[Executed notebook](sentiment_classification.ipynb) · [Kaggle notebook](https://www.kaggle.com/code/arafat1746/sentiment-classification) · [All projects](../README.md)
 
 Classify English review sentences using TF-IDF, Multinomial Naive Bayes and Logistic Regression. Includes data checks, reproducible preprocessing, held-out evaluation, error analysis and a custom-text prediction helper. Implements [Task 4 requirements](https://www.datheon.in/training/catalog/machine-learning-and-data-science-internship).
 
@@ -24,7 +24,7 @@ The archive contains **3,000 sentences** across Amazon, IMDb and Yelp, with 500 
 
 Settings are fixed; no hyperparameter search or model selection uses the test set. Logistic Regression is the predefined custom-helper default.
 
-## Actual local results
+## Local held-out results
 
 | Model | Accuracy | Macro precision | Macro recall | Macro F1 |
 |:--|--:|--:|--:|--:|

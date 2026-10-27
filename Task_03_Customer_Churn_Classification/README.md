@@ -2,7 +2,7 @@
 
 **Arafat Rahman** · Datheon Machine Learning & Data Science Internship · Application `DT-2026-JTNGO`
 
-[Executed notebook](customer_churn_classification.ipynb) · [Kaggle notebook](https://www.kaggle.com/code/arafat1746/customer-churn-classification)
+[Executed notebook](customer_churn_classification.ipynb) · [Kaggle notebook](https://www.kaggle.com/code/arafat1746/customer-churn-classification) · [All projects](../README.md)
 
 Predict customer churn using Random Forest and XGBoost, with categorical preprocessing, class weighting, cross-validation and held-out evaluation. This implements Task 3 of the [official internship requirements](https://www.datheon.in/training/catalog/machine-learning-and-data-science-internship).
 
@@ -21,7 +21,7 @@ The [IBM Telco Customer Churn CSV](https://raw.githubusercontent.com/IBM/telco-c
 - Settings are fixed in advance. Mean CV ROC-AUC selects XGBoost (0.8473 versus 0.8409), before evaluating the held-out test data. No test-driven tuning is performed.
 - Both classifiers use a fixed 0.5 threshold. Precision, recall and F1 below refer to the positive churn class; full per-class reports include support and macro/weighted averages.
 
-## Actual held-out results
+## Local held-out results
 
 | Model | ROC-AUC | Average precision | Accuracy | Precision | Recall | F1 |
 |:--|--:|--:|--:|--:|--:|--:|
@@ -31,7 +31,6 @@ The [IBM Telco Customer Churn CSV](https://raw.githubusercontent.com/IBM/telco-c
 Both models exceed the assignment's **0.80 ROC-AUC** target on this split. XGBoost has higher ROC-AUC, average precision and churn recall; Random Forest has higher accuracy and precision. This does not establish universal algorithm superiority.
 
 Random Forest produces **240 false positives and 97 false negatives** (337 errors). XGBoost produces **271 false positives and 80 false negatives** (351 errors): it identifies 17 additional churners but flags 31 additional non-churners. Error exports use source row indices rather than customer identifiers.
-
 
 ### Kaggle execution
 
